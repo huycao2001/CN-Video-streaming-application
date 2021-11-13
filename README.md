@@ -32,5 +32,5 @@ python ClientLauncher.py IP_address server_port client_port movie.Mjpeg
 Again **server_port** is the same port you use for the command above. **client_port** must also be larger than 1024. **IP_address** is the IP address of your running computer. 
 For example : 
 ```
-python ClientLauncher.py 192.168.100.4 8000 8000 movie.Mjpeg
+python ClientLauncher.py 192.168.100.4 8000 1234 movie.Mjpeg
 ```
