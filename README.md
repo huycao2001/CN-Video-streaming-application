@@ -8,7 +8,6 @@
 
 - **MyExtend4** contains the extension 4 which adds move backward and forward buttons (as per the instruction) and a bonus restart button, along with a video progress indicator
 
-Extension 5 will be implemented later if we know how to do it lol 
 
 
 ## How to run
