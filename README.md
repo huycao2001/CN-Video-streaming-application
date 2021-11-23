@@ -12,7 +12,7 @@
 
 ## How to run
 1.  First make sure all the files are in the same folder.  
-2. Initiate the server by type the command:
+2. Open your terminal and initiate the server by typing the command:
  ```
  python Server.py server_port
  ```
