@@ -1,5 +1,5 @@
 # Computer-Network-Lab-Video-streaming-application
-## Folder description
+## Folders description
 - **Basic** folder contains the code for basic functions (setup, play, pause and tear down)
 - **MyExtend1**  contains the extension 1 which calculate the some basic statistics like : Data loss rate, data length, data transmission rate and total time taken 
 - **MyExtend2** contains the extension 2 which is merging the set up and play button as well as functions into one button called **PLAY**
