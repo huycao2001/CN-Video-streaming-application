@@ -1,12 +1,12 @@
 # Computer-Network-Lab-Video-streaming-application
 ## Folders description
 - **Basic** folder contains the code for basic functions (setup, play, pause and tear down)
-- **MyExtend1**  contains the extension 1 which calculate the some basic statistics like : Data loss rate, data length, data transmission rate and total time taken 
-- **MyExtend2** contains the extension 2 which is merging the set up and play button as well as functions into one button called **PLAY**
+- **MyExtend1**  contains the extension 1 which calculates some basic statistics like : Data loss rate, total transmitted data, data transmission rate and total time taken 
+- **MyExtend2** contains the extension 2 which is merging the set up and play button as well as functions into one button called **PLAY** which means that we remove the SETUP button and the user can now play the video by only using the PLAY button. 
 
-- **MyExtend3** contains the extension 3 which gives a short description about streaming information and many more.... 
+- **MyExtend3** contains the extension 3 which gives a short description about streaming information and many more.
 
-- **MyExtend4** contains the extension 4 which adds move backward and forward buttons (as per the instruction) and a bonus restart button, along with a video progress indicator
+- **MyExtend4** contains the extension 4 which adds move backward and forward buttons (as per the instruction) and a bonus restart button, along with a video progress indicator.
 
 
 
